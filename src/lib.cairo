@@ -1,4 +1,4 @@
-// All modules must be present here
+mod bubble_sort;
 
-mod math;
-mod test;
+#[cfg(test)]
+mod tests;
